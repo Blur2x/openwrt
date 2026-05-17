@@ -1,9 +1,11 @@
 # 代理补充列表
 
 # 域名后缀匹配
-#DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,mini4k.io
 DOMAIN-SUFFIX,samrombox.com
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,duolinguo.com
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
