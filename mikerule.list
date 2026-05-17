@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,mini4k.io
 DOMAIN-SUFFIX,samrombox.com
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,1e100
+#DOMAIN-KEYWORD,1e100
 
 # 国外DNS
 #DOMAIN-SUFFIX,dns.google
