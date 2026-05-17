@@ -1,11 +1,23 @@
 # 代理补充列表
 
 # 域名后缀匹配
+
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+
+DOMAIN-SUFFIX,missav.live
+DOMAIN-SUFFIX,missav.ws
+
 DOMAIN-SUFFIX,mini4k.io
 DOMAIN-SUFFIX,samrombox.com
 DOMAIN-SUFFIX,quickconnect.cn
 DOMAIN,steamcdn-a.akamaihd.net
 DOMAIN,duolinguo.com
+
+#TrendRadar
+DOMAIN-SUFFIX,busiyi.world
+DOMAIN-KEYWORD,busiyi
+DOMAIN-SUFFIX,day.app
 
 # 域名关键字匹配
 #DOMAIN-KEYWORD,1e100
@@ -13,3 +25,12 @@ DOMAIN,duolinguo.com
 # 国外DNS
 #DOMAIN-SUFFIX,dns.google
 #IP-CIDR,8.8.8.8/32,no-resolve
+
+# DOTA2 东南亚服直连规则
+IP-CIDR,103.28.54.0/24
+IP-CIDR,103.10.124.0/24
+IP-CIDR,45.121.184.0/24
+IP-CIDR,155.133.248.0/24
+IP-CIDR,162.254.197.0/24
+
+
